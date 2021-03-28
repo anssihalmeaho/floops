@@ -40,7 +40,7 @@ If operation has compensating procedure it is called with latest state value
 and with same arguments as actual procedure (in rollback).
 
 There is special operation **'join'** which can be used for forking several
-concurrent operation sequenece executions.
+concurrent operation sequence executions.
 
 ## Related patterns
 
